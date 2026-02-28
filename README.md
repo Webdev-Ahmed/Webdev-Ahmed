@@ -1,8 +1,8 @@
-# Hi, I'm Ahmed 👋
+# Hi, I'm Ahmed Raza 👋
 
-I'm a full-stack developer who enjoys building clean, performant web experiences — from pixel-perfect UIs to scalable backend systems.
+I'm a full-stack developer who loves building clean, thoughtful web experiences — from smooth, animated frontends to well-structured backends.
 
-> *Writing code that's easy to read, maintain, and ship.*
+> *Focused on writing code that's simple, scalable, and ships.*
 
 ---
 
@@ -10,42 +10,51 @@ I'm a full-stack developer who enjoys building clean, performant web experiences
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=000)
+![Motion](https://img.shields.io/badge/-Motion-000?style=flat&logo=framer&logoColor=fff)
+![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
+![Bun](https://img.shields.io/badge/-Bun-000?style=flat&logo=bun&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff)
+![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat&logo=hono&logoColor=fff)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat)
 
 **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Zed](https://img.shields.io/badge/-Zed-000?style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
+![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-7B5EA7?style=flat)
 
 ---
 
 ## 🚀 Current Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| [**Bydo.io**](https://github.com/Webdev-Ahmed/Bydo) | A short, punchy description of what this does | React, Node, Postgres |
-| [**Project Beta**](https://github.com/yourusername/project-beta) | A short, punchy description of what this does | Next.js, Tailwind |
-| [**Project Gamma**](https://github.com/yourusername/project-gamma) | A short, punchy description of what this does | TypeScript, Redis |
+|---------|-------------|-------|
+| [**Bydo.io**](https://github.com/Webdev-Ahmed/bydo.io) | An advanced todo app with projects & calendar management | React, TS, Tailwind, Express, Prisma |
+
+*More coming soon...*
 
 ---
 
 ## 📬 Connect
 
-[![Portfolio](https://img.shields.io/badge/-yoursite.dev-000?style=flat&logo=vercel)](https://yoursite.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/yourhandle)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-hello@yoursite.dev-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:hello@yoursite.dev)
+[![Portfolio](https://img.shields.io/badge/-ahmed--raza--portfolio.vercel.app-000?style=flat&logo=vercel)](https://ahmed-raza-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/-webdevahmedraza@gmail.com-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:webdevahmedraza@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat&color=grey" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Webdev-Ahmed&style=flat&color=grey" alt="Profile views" />
 </p>
